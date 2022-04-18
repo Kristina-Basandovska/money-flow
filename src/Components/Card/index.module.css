@@ -1,0 +1,17 @@
+
+.incomeCard {
+  background: linear-gradient(243.83deg, #ceefbe -48.33%, #8dd04a 100.88%);
+}
+
+.expenseCard {
+  background: linear-gradient(62.53deg, #FF9F45 -3.28%, #FEFCF9 153.09%);
+}
+
+.defaultCard {
+  background: linear-gradient(
+    244.77deg,
+    #af8efc -1.07%,
+    #d56fef 46.06%,
+    #7165df 100.86%
+  );
+}
